@@ -1,1 +1,65 @@
 
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+[Rr]ecordings/
+
+# Unity generated files
+*.csproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svclog
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# IDE settings
+.vs/
+.vscode/
+.idea/
+*.sln.docstates
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Build outputs
+*.apk
+*.aab
+*.app
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Crash reports
+sysinfo.txt
+crashlytics-build.properties
+
+# Local environment and secrets
+.env
+.env.*
+!.env.example
+
+# Backups
+*.bak
+*.old
+*.orig
+
+# Do not ignore Unity project essentials:
+# Assets/
+# Packages/
+# ProjectSettings/
